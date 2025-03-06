@@ -1,4 +1,4 @@
 ---
-Testing GitHub Pages Features
+title: Testing GitHub Pages Features
 ---
 
