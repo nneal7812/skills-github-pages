@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+<h1>Testing GitHub Pages Features</h1>
 ---
 
