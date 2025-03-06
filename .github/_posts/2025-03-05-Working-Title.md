@@ -1,5 +1,0 @@
----
-title: "Working-Title"
-date: 2025-03-05
----
-Testing for first GitHub pages blog post!
